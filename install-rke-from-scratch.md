@@ -229,7 +229,7 @@ Generating public/private key pair
 ssh-keygen
 ```
 
-Copy public key to worker nodes
+Copy public key to all worker nodes
 
 ```bash
 ssh-copy-id root@rke-worker01
